@@ -1,0 +1,60 @@
+.container {
+  background-color: black;
+}
+
+img {
+  width: 100%;
+  height: 40%;
+  margin: 0 auto;
+  border-radius: 10px;
+  margin-bottom: 25px;
+
+}
+
+input {
+  font-weight: bold;
+  background-color: blur;
+  font-family: cursive;
+  font-size: 20px;
+  margin-left: 40px;
+  display: block;
+  margin: auto;
+  background-color: #FFA81B;
+  border-radius: 10px;
+
+}
+
+.title  {
+  font-weight: bolder;
+  font-size: 22px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: cursive;
+}
+
+
+button {
+  height: 50px;
+  width: 98%;
+  background-color: #FFAE22;
+  color: black;
+  font-weight: bolder;
+  font-size: 30px;
+  font-family: cursive;
+  border-radius: 10px;
+  margin-left: 15px;
+  margin-top: 20px;
+
+
+
+}
+
+p {
+  font-size: 25px;
+  font-family: cursive;
+  }
+
+h1 {
+  font-weight: bold;
+
+}
